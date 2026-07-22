@@ -204,13 +204,16 @@ Built an InceptionV3–LSTM classification system achieving **96.48% test accura
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gautam2117&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+<img
+  src="https://streak-stats.demolab.com?user=Gautam2117&theme=github-dark-blue&hide_border=true"
+  alt="Gautam's GitHub contribution streak"
+/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Gautam2117&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<br/><br/>
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam2117&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages" />
+<a href="https://github.com/Gautam2117?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-100%2B-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 </div>
 
